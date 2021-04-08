@@ -293,7 +293,7 @@ func getTemplates() *template.Template {
                 fill="#957552" />
             </g>
           </svg>
-          <span class="product">Stakater <br> Agility Platform</span>
+          <span class="product">Stakater <br> App Agility Platform</span>
         </div>
 
     <form method="GET" action="{{.ProxyPrefix}}/start">
